@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IrynaVaku/supertest-framework.git"
+    "url": "git+https://github.com/oleh77777/supertest-framework-1.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IrynaVaku/supertest-framework/issues"
+    "url": "https://github.com/oleh77777/supertest-framework-1/issues"
   },
-  "homepage": "https://github.com/IrynaVaku/supertest-framework#readme",
+  "homepage": "https://github.com/oleh77777/supertest-framework-1#readme",
   "devDependencies": {
     "@babel/cli": "^7.17.6",
     "@babel/core": "^7.17.5",
